@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Andrew! 👋</h1>
+	<h3>Full Stack Developer from Moscow</h3>
+</div>
 
-<!--
-**andreu5547/andreu5547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+	<a href="t.me/andreu5547">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+	</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###My stats
+<div id="stats" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreu5547&theme=github_dark" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreu5547&theme=github_dark" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreu5547&theme=github_dark&utcOffset=8" alt=""/> 
+</div>
