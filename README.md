@@ -9,7 +9,7 @@
 	</a>
 </div>
 
-###My stats
+<h3>My stats</h3>
 <div id="stats" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreu5547&theme=github_dark" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreu5547&theme=github_dark" alt=""/>
